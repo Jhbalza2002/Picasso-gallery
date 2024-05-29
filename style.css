@@ -221,7 +221,8 @@ form {
   width: 400px;
   background-color: #4e0808;
   border: 5px solid rgba(174, 123, 17, 1);
-  margin-left: 40%;
+  margin: 0 auto;
+  margin-top: 200px;
 }
 
 .tittle {
